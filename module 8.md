@@ -1,4 +1,7 @@
+## NAME: KAAVIYA A
+## REG NO: 212224060111
 ## EXP NO:6 C  Program PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
+## DATE: 03/02/2026
 ### Aim:
 To write a C Program print the lowercase English word corresponding to the number
 ### Algorithm:
@@ -54,6 +57,7 @@ int main() {
 Thus, the Program is verified successfully
  
 ## EXP NO:7 C Program TO PRINT TEN SPACE-SEPARATED INTEGERS     IN A SINGLE  LINE DENOTING THE FREQUENCY OF EACH DIGIT FROM 0 TO 3 .
+## DATE: 04/02/2026
 ### Aim:
 To write a C Program to print ten space-separated integers in a single line denoting the frequency of each digit from 0 to 3.
 ### Algorithm:
@@ -97,6 +101,7 @@ int main() {
 Thus, the Program is verified successfully
 
 ## EXP NO:8 C Program TO PRINT ALL OF ITS PERMUTATIONS IN STRICT LEXICOGRAPHICAL ORDER.
+## DATE: 05/02/2026
 ### Aim:
 To write a C Program to print all of its permutations in strict lexicographical order.
 
@@ -177,6 +182,7 @@ int main() {
 Thus, the  Program is verified successfully
  
 ## EXP NO:9 C Program PRINT A PATTERN OF NUMBERS FROM 1 TO N AS SHOWN BELOW.
+## DATE: 06/02/2026
 ### Aim:
 To write a C Program to print a pattern of numbers from 1 to n as shown below.
 ### Algorithm:
@@ -224,7 +230,7 @@ int main() {
 Thus, the Program is verified successfully
 
 ## EXP NO:10 C Program TO FIND A SQUARE  OF NUMBER USING FUNCTION WITHOUT ARGUMENTS WITH RETURN TYPE
-
+## DATE: 07/02/2026
 ### Aim:
 
 To write a C Program that calculates the square of a number using a function that does not take any arguments, but returns the square of the number.
