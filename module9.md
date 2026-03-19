@@ -1,5 +1,7 @@
+## NAME: KAAVIYA A
+## REG NO: 212224060111
 ## EXP NO:11 C PROGRAM TO DISPLAY STACK ELEMENTS USING AN ARRAY.
-
+## DATE: 10/02/2026
 ### Aim:
 To write a C program to display stack elements using an array.
 ### Algorithm:
@@ -45,6 +47,7 @@ Thus, the program to display stack elements using an array is verified successfu
  
 
 ## EXP NO:12  PROGRAM TO PUSH THE GIVEN ELEMENT IN TO A STACK USING ARRAY.
+## DATE: 11/02/2026
 ### Aim:
 To create a C program to push the given element in to a stack using array.
 ### Algorithm:
@@ -85,6 +88,7 @@ Thus, the program to push the given element in to a stack using array is verifie
 
  
 ## EXP NO:13 C PROGRAM TO DISPLAY QUEUE ELEMENTS USING ARRAY.
+## DATE: 12/02/2026
 ### Aim:
 To write a C program to display queue elements using array
 
@@ -130,6 +134,7 @@ Thus, the program to display queue elements using array is verified successfully
 
  
 ## EXP NO:14 C PROGRAM TO INSERT ELEMENTS IN QUEUE USING ARRAY.
+## DATE: 13/02/2026
 ### Aim:
 To write a C program to insert elements in queue using array.
 
@@ -177,7 +182,7 @@ Thus, the program to insert elements in queue using array is verified successful
 
  
 ## EXP NO:15 C FUNCTION TO DELETE ELEMENTS IN QUEUE USING ARRAY
-
+## DATE: 14/02/2026
 ### Aim:
 
 To create a function in C that deletes an element from a queue implemented using an array.
